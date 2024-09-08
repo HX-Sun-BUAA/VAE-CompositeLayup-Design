@@ -32,5 +32,9 @@ Download the repository and run the notebook in Jupyter or a similar environment
 Ensure that all dataset files are available in the same directory as the notebook.
 Follow the steps in the notebook to either train the model or load a pre-trained model to generate and evaluate designs.
 
+# To load the pre-trained VAE model:
+model = VAE()  # Initialize your model class
+model.load_state_dict(torch.load('dataset/0304vae_model.pth'))  # Load weights
+
 # Contact
 For any questions or issues, feel free to open an issue on this repository or contact me directly via GitHub.
