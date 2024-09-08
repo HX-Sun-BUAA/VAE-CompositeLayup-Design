@@ -34,6 +34,7 @@ Follow the steps in the notebook to either train the model or load a pre-trained
 
 # To load the pre-trained VAE model:
 model = VAE()  # Initialize your model class
+
 model.load_state_dict(torch.load('dataset/0304vae_model.pth'))  # Load weights
 
 # Contact
