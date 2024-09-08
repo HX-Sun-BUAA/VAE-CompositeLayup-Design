@@ -1,4 +1,4 @@
-This code for the paper:Efficient property-oriented design of composite layups via controllable latent features using generative VAE
+This code for the paper: Efficient property-oriented design of composite layups via controllable latent features using generative VAE
 ![b321e35eb475f9e73fe0893a4981c15](https://github.com/user-attachments/assets/ac446ea0-1390-46da-b2a0-1891ed4886d9)
 
 # Project Overview
