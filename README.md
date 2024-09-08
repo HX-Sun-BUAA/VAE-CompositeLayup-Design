@@ -1,5 +1,5 @@
 This code for the paper: Efficient property-oriented design of composite layups via controllable latent features using generative VAE
-![b321e35eb475f9e73fe0893a4981c15](https://github.com/user-attachments/assets/ac446ea0-1390-46da-b2a0-1891ed4886d9)
+![Graph Abstract](https://github.com/user-attachments/assets/9b51d968-0ed4-470f-bc41-3536284de673)
 
 # Project Overview
 This project contains code used in my thesis research on designing laminate composites using a Variational Autoencoder (VAE) model. The code is implemented in PyTorch and includes training and testing routines for generating layups with desired laminate parameters, performing design evaluations, and ensuring compliance with design constraints.
